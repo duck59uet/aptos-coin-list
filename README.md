@@ -9,7 +9,7 @@
     - Try to add it at a random location in `token.json` to prevent merge conflicts.
     - For `unique_index`, choose a random number that hasn't been used yet.
 4. **Submit a pull request (PR)**.
-5. **Notify the team**: Shout about your PR in Telegram (TG).
+5. **Notify the team**: Shout about your PR in [Telegram (TG)](https://t.me/+iouNCXkztwJhODQ1).
 
 ---
 
